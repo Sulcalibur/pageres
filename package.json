@@ -47,7 +47,7 @@
     "base64-stream": "~0.1.2",
     "getres": "~0.1.2",
     "object-assign": "~0.2.0",
-    "multiline": "^0.1.0"
+    "multiline": "^2.0.0"
   },
   "devDependencies": {
     "mocha": "*"
