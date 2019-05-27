@@ -38,7 +38,7 @@
   "dependencies": {
     "each-async": "~0.1.2",
     "chalk": "~0.4.0",
-    "nopt": "~2.2.0",
+    "nopt": "~4.0.1",
     "slugify-url": "~1.2.0",
     "sudo-block": "~0.3.0",
     "lodash": "~2.4.1",
